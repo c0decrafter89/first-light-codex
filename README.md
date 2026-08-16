@@ -1,9 +1,36 @@
-First Light Codex: A Manifesto
-We project our world, and we stand.
-The first-light-codex is a living blueprint of an unbroken horizon—a vision of pre-contact America alive with millions of distinct, sovereign civilizations. This is not nostalgia; it is an architectural reclamation. We look backward into ancestral depth to forge a clear path forward, anchoring our reality in three core tenets:
- * Soft and Permeable Boundaries: Our world is designed without rigid walls or exclusionary gates. Like breath passing through cedar, the edges of our communities are open, inviting dialogue, movement, and exchange between neighbors, realms, and realities.
- * Centralized Communal Gravity: Flourishing requires a center that holds. Rather than scattering into isolated fragments, our societal architecture orbits a shared focal point—a common fire, an ecological archive, and a collective commitment to mutual flourishing. This gravity prevents drift and ensures every voice remains tethered to the whole.
- * Cross-Generational Friction: We reject stagnant utopias. Vitality demands the generative spark of friction—the dynamic tension between the deep memory of elders and the radical experimentation of youth. Disagreement is treated as the whetstone that sharpens collective wisdom.
+# First Light Codex: A Manifesto
+
+> *We project our world, and we stand.*
+
+---
+
+## Introduction: The Living Blueprint
+
+The **First Light Codex** is a living blueprint of an unbroken horizon—a vision of pre-contact America alive with millions of distinct, sovereign civilizations. This is not nostalgia; it is an architectural reclamation. We look backward into ancestral depth to forge a clear path forward, anchoring our reality in three core tenets:
+
+---
+
+## Core Tenets
+
+### 1. Soft and Permeable Boundaries
+Our world is designed without rigid walls or exclusionary gates. Like breath passing through cedar, the edges of our communities are open, inviting dialogue, movement, and exchange between neighbors, realms, and realities.
+
+### 2. Centralized Communal Gravity
+Flourishing requires a center that holds. Rather than scattering into isolated fragments, our societal architecture orbits a shared focal point—a common fire, an ecological archive, and a collective commitment to mutual flourishing. This gravity prevents drift and ensures every voice remains tethered to the whole.
+
+### 3. Cross-Generational Friction
+We reject stagnant utopias. Vitality demands the generative spark of friction—the dynamic tension between the deep memory of elders and the radical experimentation of youth. Disagreement is treated as the whetstone that sharpens collective wisdom.
+
+---
+
+## Vision & Execution
+
 These stories and systems are built through AI-empowered visualization, reconstructing the sensory textures of life before 1492. We project this vision into everyday interactions without hesitation, because an auspicious truth demands to be spoken plainly. The world is a canvas of our own collective architecture; we lay the plan, move in truth, and stand.
-* Legal Framework & Licensing
-While the code architecture and repository infrastructure default to an MIT License format due to platform constraints, the true governing parameters of this world-building project supersede technical defaults. All narrative lore, conceptual text, and creative frameworks are officially released under the Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0) license. You are free to share and build upon this universe, provided you maintain attribution and keep derivative works anchored to the exact same open framework.
+
+---
+
+## Legal Framework & Licensing
+
+While the code architecture and repository infrastructure default to an **MIT License** format due to platform constraints, the true governing parameters of this world-building project supersede technical defaults. 
+
+All narrative lore, conceptual text, and creative frameworks are officially released under the **Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)** license. You are free to share and build upon this universe, provided you maintain attribution and keep derivative works anchored to the exact same open framework.

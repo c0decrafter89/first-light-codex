@@ -1,7 +1,5 @@
 # THE-HUMAN-BEING-ARCHITECTURE:First light codex
 
-> "I’m just a human being trying to make it in a world that is very rapidly losing its understanding of being human." — John Trudell
-
 ---
 
 ## I. Manifesto: Recovery of Relation Over Abstraction
@@ -51,3 +49,5 @@ This repository functions as a living codex. The architecture is organized as fo
 ├── /cosmology              # Frameworks of communal gravity and ecological integration
 ├── /systems                # Mechanics of soft boundaries and cross-generational friction
 └── /narratives             # AI-empowered visualizations and vignettes of pre-contact life
+
+> "I’m just a human being trying to make it in a world that is very rapidly losing its understanding of being human." — John Trudell

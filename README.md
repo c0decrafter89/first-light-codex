@@ -48,6 +48,7 @@ This repository functions as a living codex. The architecture is organized as fo
 ├── /systems                # Mechanics of soft boundaries and cross-generational friction
 └── /narratives             # AI-empowered visualizations and vignettes of pre-contact life
 
+```
 ---
 
 > "I’m just a human being trying to make it in a world that is very rapidly losing its understanding of being human." — John Trudell

@@ -1,7 +1,5 @@
 # THE-HUMAN-BEING-ARCHITECTURE:First light codex
 
----
-
 ## I. Manifesto: Recovery of Relation Over Abstraction
 
 Modern civilization is built on abstraction. It trades living ecosystems for balance sheets, community for networked isolation, and the direct, tactile experience of existence for digitized proxies. In this state, humanity forgets what it is. We are reduced to consumers, labor units, and isolated nodes in a machine that consumes the spirit.
@@ -49,5 +47,7 @@ This repository functions as a living codex. The architecture is organized as fo
 ├── /cosmology              # Frameworks of communal gravity and ecological integration
 ├── /systems                # Mechanics of soft boundaries and cross-generational friction
 └── /narratives             # AI-empowered visualizations and vignettes of pre-contact life
+
+---
 
 > "I’m just a human being trying to make it in a world that is very rapidly losing its understanding of being human." — John Trudell
